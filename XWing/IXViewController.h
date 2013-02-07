@@ -10,4 +10,7 @@
 
 @interface IXViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIImageView *spaceView;
+@property (weak, nonatomic) IBOutlet UIImageView *xwingView;
+
 @end

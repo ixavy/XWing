@@ -18,6 +18,8 @@
 		3BBC889616B2F07C00CFE9D4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BBC889516B2F07C00CFE9D4 /* Default-568h@2x.png */; };
 		3BBC889916B2F07C00CFE9D4 /* IXViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BBC889816B2F07C00CFE9D4 /* IXViewController.m */; };
 		3BBC889C16B2F07C00CFE9D4 /* IXViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3BBC889A16B2F07C00CFE9D4 /* IXViewController.xib */; };
+		3BBC88A316B2FAC800CFE9D4 /* hubble-deep.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BBC88A216B2FAC800CFE9D4 /* hubble-deep.jpg */; };
+		3BBC88A516B2FAD700CFE9D4 /* w-wing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BBC88A416B2FAD700CFE9D4 /* w-wing.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		3BBC889716B2F07C00CFE9D4 /* IXViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IXViewController.h; sourceTree = "<group>"; };
 		3BBC889816B2F07C00CFE9D4 /* IXViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IXViewController.m; sourceTree = "<group>"; };
 		3BBC889B16B2F07C00CFE9D4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/IXViewController.xib; sourceTree = "<group>"; };
+		3BBC88A216B2FAC800CFE9D4 /* hubble-deep.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hubble-deep.jpg"; sourceTree = "<group>"; };
+		3BBC88A416B2FAD700CFE9D4 /* w-wing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "w-wing.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +92,8 @@
 				3BBC889716B2F07C00CFE9D4 /* IXViewController.h */,
 				3BBC889816B2F07C00CFE9D4 /* IXViewController.m */,
 				3BBC889A16B2F07C00CFE9D4 /* IXViewController.xib */,
+				3BBC88A216B2FAC800CFE9D4 /* hubble-deep.jpg */,
+				3BBC88A416B2FAD700CFE9D4 /* w-wing.jpg */,
 				3BBC888616B2F07C00CFE9D4 /* Supporting Files */,
 			);
 			path = XWing;
@@ -164,6 +170,8 @@
 				3BBC889416B2F07C00CFE9D4 /* Default@2x.png in Resources */,
 				3BBC889616B2F07C00CFE9D4 /* Default-568h@2x.png in Resources */,
 				3BBC889C16B2F07C00CFE9D4 /* IXViewController.xib in Resources */,
+				3BBC88A316B2FAC800CFE9D4 /* hubble-deep.jpg in Resources */,
+				3BBC88A516B2FAD700CFE9D4 /* w-wing.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
